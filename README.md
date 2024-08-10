@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ravi Singh
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently improving my development skills
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in web and mobile development.
+- 🌱 I’m currently improving my development skills.
+- 💞️ I’m looking to collaborate on web and mobile development projects using React and React Native.
 - 📫 How to reach me : ravi.singh@vectoscalar.com
 
 <!---
