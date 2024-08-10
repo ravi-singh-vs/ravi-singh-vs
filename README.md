@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravi-singh-vs
+- 👋 Hi, I’m Ravi Singh
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently improving my development skills
 - 💞️ I’m looking to collaborate on web development projects
